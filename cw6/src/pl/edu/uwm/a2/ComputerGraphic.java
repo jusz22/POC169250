@@ -6,5 +6,6 @@ public abstract class ComputerGraphic {
     String fileName;
 
     abstract void loadFile();
+
     abstract void saveFile();
 }
